@@ -12,12 +12,11 @@ This should build all the code in the application and start a server listening o
 We'd like you to build a basic computer based test application. It should have the following features:
 
 1. Manage exam questions (by admin).
- ..* A predefined admin should be able to login and create multiple choice questions for different subject together with their expected answers
- ..* some...
+ A predefined admin should be able to login and create multiple choice questions for different subject together with their expected answers
 2. Signup (students).
-  ..* First Name, Last Name, Phone and email will be Ok. But you can add more fields
+  First Name, Last Name, Phone and email will be Ok. But you can add more fields
 2. Take exams
-  ..* Students should be able to login to the app
-  ..* View available subjects, then select to take exams for a subject
-  ..* Take exams, sub
+  Students should be able to login to the app
+  View available subjects, then select to take exams for a subject
+  Take exams, sub
 
