@@ -19,3 +19,16 @@ We'd like you to build a basic computer based test application. It should have t
   ..* Students should be able to login to the app
   ..* View available subjects, then select to take exams for a subject
   ..* Take exams and view result by subject
+  
+Impress us! We value code that is simple and easy to understand, as well as an application that works. We don't have any expectations that you have a server portion to this application, but if you're able to get these features implemented and want to stretch yourself, you can go ahead and provide that.
+
+# Testing your code
+If testing isn't something you've seen much of yet, it's one of the first things we'll focus on during your internship. There's a section in the tutorial we refer to on Testing React. Looking this over and applying it would definitely make you stand out from a crowded field :)
+
+# Submitting the finished application
+
+Once you've built your application, submit a pull request to us. If you are new to using git there are many online resources for learning git. It will be necessary to have some basic working knowledge of git to complete this challenge, and it is a core skill you'll be using as an intern (and as a developer).
+
+# Need help?
+
+We understand that as an intern developer, you're new to development. That's ok, in fact, it's more than ok, it's the whole point! If you get stuck along the way, reach out. I'll be checking email regularly so that you won't waste time on things that you actually can't figure out on your own.
