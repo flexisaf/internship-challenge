@@ -11,12 +11,11 @@ This should build all the code in the application and start a server listening o
 # The mini cbt app
 We'd like you to build a basic computer based test application. It should have the following features:
 
-1. Manage exam questions (by admin).
+1. Manage exam questions (Admin).
  A predefined admin should be able to login and create multiple choice questions for different subject together with their expected answers
 2. Signup (students).
   First Name, Last Name, Phone and email will be Ok. But you can add more fields
-2. Take exams
+3. Take exams (Students)
   Students should be able to login to the app
   View available subjects, then select to take exams for a subject
-  Take exams, sub
-
+  Take exams and view result by subject
