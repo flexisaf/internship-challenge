@@ -16,6 +16,9 @@ We'd like you to build a basic computer based test application. It should have t
 2. Signup (students).
   First Name, Last Name, Phone and email will be Ok. But you can add more fields
 3. Take exams (Students)
+  
   Students should be able to login to the app
+  
   View available subjects, then select to take exams for a subject
+  
   Take exams and view result by subject
