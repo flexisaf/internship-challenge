@@ -1,2 +1,1 @@
-# internship-challenge
-Flexisaf Internship Challenge
+# Flexisaf Internship Challenge
