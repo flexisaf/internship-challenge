@@ -12,7 +12,7 @@ This should build all the code in the application and start a server listening o
 We'd like you to build a basic computer based test application. It should have the following features:
 
 1. Manage exam questions (Admin).
- A predefined admin should be able to login and create multiple choice questions for different subject together with their expected answers
+ A predefined admin should be able to login and create multiple choice questions for different subjects together with their expected answers
 2. Signup (students).
   First Name, Last Name, Phone and email will be Ok. But you can add more fields
 3. Take exams (Students)
