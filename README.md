@@ -10,11 +10,14 @@ npm run start
 This should build all the code in the application and start a server listening on port 8080. If you open your browser to http://localhost:8080 you should see this: "Welcome to Flexisaf Internship". This will mean your environment is set up correctly and you are ready to start coding!
 # The mini cbt app
 We'd like you to build a basic computer based test application. It should have the following features:
-# Manage exam questions.
- ..*A predefined admin should be able to login and create multiple choice questions for different subject together with their expected answers
+
+1. Manage exam questions (by admin).
+ ..* A predefined admin should be able to login and create multiple choice questions for different subject together with their expected answers
  ..* some...
-# Allow students to register their basic information.
-  ..* First Name, Last Name, Phone and email will be Ok
-# Login to the app and update profile
-  ..*  
+2. Signup (students).
+  ..* First Name, Last Name, Phone and email will be Ok. But you can add more fields
+2. Take exams
+  ..* Students should be able to login to the app
+  ..* View available subjects, then select to take exams for a subject
+  ..* Take exams, sub
 
