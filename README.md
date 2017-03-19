@@ -1,5 +1,5 @@
 # Flexisaf Internship Challenge
-Welcome to the Flexisaf Internship challenge. Your mission, should you choose to accept it, is to build a computer based test application using React. We highly encourage you, if you are new to React (which is fine) to follow online tutorials to build the application.
+Welcome to the Flexisaf Internship challenge. Your mission, should you choose to accept it, is to build a computer based test application using ReactJs. We highly encourage you, if you are new to ReactJs (which is fine) to follow online tutorials to build the application.
 
 # Getting started
 To start, you should make a fork of this repo. As long as you have node and npm installed on your computer, you should be able to do the following:
