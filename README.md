@@ -8,3 +8,8 @@ npm install
 npm run start
 ```
 This should build all the code in the application and start a server listening on port 8080. If you open your browser to http://localhost:8080 you should see this: "Welcome to Flexisaf Internship". This will mean your environment is set up correctly and you are ready to start coding!
+# The mini cbt app
+We'd like you to build a basic computer based test application. It should have the following features:
+1. Register as a user
+2. Login to the app
+
