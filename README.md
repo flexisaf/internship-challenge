@@ -3,7 +3,8 @@ Welcome to the Flexisaf Internship challenge. Your mission, should you choose to
 
 # Getting started
 To start, you should make a fork of this repo. As long as you have node and npm installed on your computer, you should be able to do the following:
-
+```
 npm install
 npm run start
+```
 This should build all the code in the application and start a server listening on port 8080. If you open your browser to http://localhost:8080 you should see this:
