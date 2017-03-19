@@ -7,4 +7,4 @@ To start, you should make a fork of this repo. As long as you have node and npm 
 npm install
 npm run start
 ```
-This should build all the code in the application and start a server listening on port 8080. If you open your browser to http://localhost:8080 you should see this:
+This should build all the code in the application and start a server listening on port 8080. If you open your browser to http://localhost:8080 you should see this: "Welcome to Flexisaf Internship". This will mean your environment is set up correctly and you are ready to start coding!
