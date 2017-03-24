@@ -28,4 +28,4 @@ Once you've built your application, submit a pull request to us. If you are new 
 
 # Need help?
 
-We understand that as an intern developer, you're new to development. That's ok, in fact, it's more than ok, it's the whole point! If you get stuck along the way, reach out. I'll be checking email regularly so that you won't waste time on things that you actually can't figure out on your own. Contact kabir.idris@flexisaf.com
+We understand that as an intern developer, you're new to development. That's ok, in fact, it's more than ok, it's the whole point! If you get stuck along the way, reach out. I'll be checking the slack channel regularly so that you won't waste time on things that you actually can't figure out on your own.
